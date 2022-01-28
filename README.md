@@ -29,10 +29,10 @@ Imported the tests from `test_module.py` to `main.py` for your convenience. <br>
 
 
 ### Data Source
-Global Average Absolute Sea Level Change, 1880-2014 from the US <br> Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
+Global Average Absolute Sea Level Change, 1880-2014 from the US  Environmental <br>Protection Agency using data from CSIRO, 2015; NOAA, 2015.
 https://datahub.io/core/sea-level-rise
 
 
 ### Challanges and Improvements
-1.  Using pandas with matplotlib was a fun experience and it felt a lot easier <br> to interact with than d3.js
+1.  Using pandas with matplotlib was a fun experience and it felt a lot easier to interact with than d3.js
 
